@@ -1,0 +1,17 @@
+body{
+	background-color: orange;
+}
+li{
+	border: 2px solid red;
+	border-width: 50%;
+}
+#special{
+	border: 2px solid green;
+	background-color: red;
+	color: blue;
+}
+.completed{
+	background-color:  yellow;
+	border-radius: 50;
+	text-decoration: line-through;
+}

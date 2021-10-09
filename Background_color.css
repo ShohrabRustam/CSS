@@ -1,0 +1,29 @@
+h1{
+	color: blue;
+	border-color: black;
+	border-width: : 5 px;
+	border-style: solid;
+	border-color: black;
+	background: red; 
+}
+
+h2{
+	color: navy blue;
+	border-color: green;
+	border-width: : 5 px;
+	border-style: solid;
+}
+body
+{
+	background : grey;
+	background: url(file:///C:/Users/mohdr/Desktop/Web%20Designing/Css/my_pics.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background: rgb(65,54,75);
+	background: pink;   
+	border: 5px solid red;
+
+}
+p{
+	color: green;
+}

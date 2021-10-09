@@ -1,0 +1,25 @@
+#sites li{
+	border: 2px solid black;
+}
+.site li{
+	border: 2px solid green;
+
+}
+ul li{
+	border: 2px solid green;
+}
+h3{
+	border: 2px solid black;
+}
+* ul{
+	border: 2px solid black ;
+
+}
+h1{
+	border: 2px solid green;
+}
+li a{
+	color: red;
+	background: blue;
+
+}

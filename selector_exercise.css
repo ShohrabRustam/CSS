@@ -1,0 +1,23 @@
+body{
+	color: #bdc3c7;
+}
+h1{
+	color :red;
+}
+h2{
+	color:orange; 
+}
+ul{
+	color: blue;
+}
+p{
+	background-color: yellow;
+	border:2px solid black;
+}
+input {
+border :3px solid red;
+}
+#PARAGRAPH:first-letter{
+	color: green;
+	font-size: 50px;
+} 

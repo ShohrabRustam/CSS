@@ -1,0 +1,23 @@
+body{
+
+	border: 20px solid grey;
+	padding: 20px;
+	margin: 100 auto;
+	width:80%;
+	color:yellow;
+	background-color: red;
+
+}
+
+h2{
+	color: blue;
+	text-transform: uppercase;
+	font-family: Raleway;
+}
+#lastpara{
+		border-bottom: 2px solid grey;
+	padding-bottom: 20px;
+}
+span{
+	border-right: 3px solid grey;
+}

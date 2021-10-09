@@ -1,0 +1,16 @@
+p{
+	color:blue;
+	width: 50%;
+	border:2px solid blue;
+	/*padding: 8px;*/
+	padding-left: 40px;
+	padding-right: 0px;
+	border-color: red;
+	background-color: grey;
+}
+/*margin top bottom right left */
+p{
+	margin: 20px 30px 40px 30px ;
+	border-color: red;
+	border-top: 50px;
+}
